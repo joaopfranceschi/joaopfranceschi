@@ -15,8 +15,8 @@ Gosto de aprender na prática, explorar novas tecnologias e transformar meus est
   <a href="https://github.com/joaopfranceschi">
     <img src="https://img.shields.io/badge/GitHub-JOAOPFRANCESCHI-181717?style=for-the-badge&logo=github" />
   </a>
-<a href="https://www.linkedin.com/in/joaofrancschi">
-  <img src="https://img.shields.io/badge/LinkedIn-JOAOFRANCESCHI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/joaopedrofrancschi">
+  <img src="https://img.shields.io/badge/LinkedIn-JOAOPEDROFRANCESCHI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
