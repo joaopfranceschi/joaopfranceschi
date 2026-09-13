@@ -1,30 +1,23 @@
-# Hi 👋, I'm Herbert Souza
+# Olá 👋, Bem vindo(a)!
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cloud e Cybersecurity**  
+🇧🇷 Brasil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Estudante de TI construindo minha base em programação, infraestrutura e tecnologias em nuvem. Tenho como principal objetivo me desenvolver na área de **Cloud Computing**, explorando também **Desenvolvimento Web** e **Cibersegurança.**
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Gosto de aprender na prática, explorar novas tecnologias e transformar meus estudos em projetos.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Sociais:
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/joaopfranceschi">
+    <img src="https://img.shields.io/badge/GitHub-JOAOPFRANCESCHI-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/joaofrancschi">
+  <img src="https://img.shields.io/badge/LinkedIn-JOAOFRANCESCHI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
