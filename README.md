@@ -32,15 +32,6 @@ Gosto de aprender na prática, explorar novas tecnologias e transformar meus est
 
 ---
 
-## 📊 GitHub Status
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Lembrete
 
 > _"Grandes sonhos começam com pequenos passos, e cada linha de código é parte do caminho."_
